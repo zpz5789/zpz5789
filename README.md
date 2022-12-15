@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zpz5789
-- 👀 I’m interested in iOS&Android&FrontEnd Front-End Web Dev
+- 👀 I’m interested in iOS&Android&Front-End Web Dev
 - 🌱 I’m currently learning ... Vue
 - 📫 How to reach me zengpengzhan@gmail.com
 
