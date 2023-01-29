@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zpz5789
 - 👀 I’m interested in iOS&Android&Front-End Web Dev
-- 🌱 I’m currently learning ... Vue
+- 🌱 I’m currently learning ... React
 - 📫 How to reach me zengpengzhan@gmail.com
 
 <!---
