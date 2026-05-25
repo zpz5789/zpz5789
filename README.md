@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zpz5789
-- 👀 I’m interested in iOS&Android&Front-End Web Dev
-- 🌱 I’m currently learning ... PHP
+- 👀 I’m interested in AI
 - 📫 How to reach me zengpengzhan@gmail.com
 
 <!---
